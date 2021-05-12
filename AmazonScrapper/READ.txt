@@ -1,0 +1,10 @@
+############################################################################################################################################################
+
+I HAVE MADE THIS AMAZON SCRAPPER CHEKOUT --> amazon_spider.py  AND items.py for CODE --> (USED SCRAPY LIBRARY)
+
+ALSO       healthfitness.json   IS THE RESULT OF CRAWLER  -->   CRAWLLED  75 AMAZON PAGES and GRABBED 1200 FITNESS BOOKS data and converted it to JSON
+
+           books.json and books.csv  ARE ALSO THE RESULT OF THE SAME CRAWLLER AFTER CHANGING THE LINK
+           
+           --> THIS CRAWLLED 25 PAGES and GRABBED AROUND 449 books data from "Around The World With Books" Categoy on AMAZON.
+ ________________________________________________________________________________________________________________________________________________________
